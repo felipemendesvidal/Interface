@@ -1,0 +1,4 @@
+C:\Users\Phellipe\Desktop\senai\c#\interface\obj\Debug\netcoreapp3.1\interface.csprojAssemblyReference.cache
+C:\Users\Phellipe\Desktop\senai\c#\interface\obj\Debug\netcoreapp3.1\interface.csproj.CoreCompileInputs.cache
+C:\Users\Phellipe\Desktop\senai\c#\interface\obj\Debug\netcoreapp3.1\interface.AssemblyInfoInputs.cache
+C:\Users\Phellipe\Desktop\senai\c#\interface\obj\Debug\netcoreapp3.1\interface.AssemblyInfo.cs
